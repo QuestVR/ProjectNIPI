@@ -1,0 +1,7 @@
+alembic
+fastapi 
+uvicorn 
+asyncpg
+pydantic
+typing
+sqlalchemy
